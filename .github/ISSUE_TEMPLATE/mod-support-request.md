@@ -2,7 +2,7 @@
 name: Mod Support Request
 about: Suggest a mod that is not yet supported
 title: "[Mod Support] - Title"
-labels: ''
+labels: 'mod-support'
 assignees: ''
 
 ---

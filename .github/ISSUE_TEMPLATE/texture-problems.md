@@ -2,7 +2,7 @@
 name: Texture Problems
 about: Report missing textures, inconsistencies, mistakes, incompatibilities, etc.
 title: "[Texture Problems] - Title"
-labels: ''
+labels: 'textrue-problems'
 assignees: ''
 
 ---
